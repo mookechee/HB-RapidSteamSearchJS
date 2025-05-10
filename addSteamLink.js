@@ -1,13 +1,20 @@
 // ==UserScript==
 // @name         Humble Add Steam Link
-// @version      2025-04-12
+// @namespace    https://github.com/mookechee/HB-RapidSteamSearchJS
+// @version      V1.0
 // @description  为Humble Bundle商品添加Steam商店链接
 // @author       mookechee
 // @match        https://www.humblebundle.com/*
 // @icon         https://cdn.humblebundle.com/static/hashed/46cf2ed85a0641bfdc052121786440c70da77d75.png
 // @grant        none
-// @compatible   chrome&edge
-
+// @compatible   chrome
+// @compatible   edge
+// @license      MIT
+// @homepage     https://github.com/mookechee/HB-RapidSteamSearchJS
+// @supportURL   https://github.com/mookechee/HB-RapidSteamSearchJS/issues
+// @updateURL    https://github.com/mookechee/HB-RapidSteamSearchJS/raw/main/addSteamLink.js
+// @downloadURL  https://github.com/mookechee/HB-RapidSteamSearchJS/raw/main/addSteamLink.js
+// @run-at       document-end
 // ==/UserScript==
 
 (function() {
