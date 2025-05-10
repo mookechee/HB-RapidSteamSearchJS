@@ -1,0 +1,2 @@
+# HB-RapidSteamSearchJS
+这是一个在HumbleBundle网站快速跳转对应的steam游戏的脚本
